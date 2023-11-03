@@ -1,0 +1,1 @@
+This landing page is going to demonstrate a number of skills that I have been honing over the past month, specifically in the CSS department.
